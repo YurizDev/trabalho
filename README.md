@@ -1,2 +1,2 @@
 # trabalho
-Trabalho de GIt feito em aula
+Trabalho de GIt feito em aula feito pelo Yuri Silva
